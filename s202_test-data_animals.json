@@ -34,6 +34,12 @@
     "scientificName": "Lynx rufus",
     "habitat": "Forests, deserts, swamps, and scrublands across North America",
     "description": "A medium-sized wild cat with tufted ears, spotted fur, and a short bobbed tail, known for its stealth and adaptability."
+  },
+  {
+  "commonName": "Spotted Hyena",
+  "scientificName": "Crocuta crocuta",
+  "habitat": "Savannas, grasslands, and open woodlands across sub-Saharan Africa",
+  "description": "A social carnivore with spotted fur, powerful jaws, and a distinctive whooping call, often living in large groups called clans."
   }
 ]
   
