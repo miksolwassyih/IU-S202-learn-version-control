@@ -28,5 +28,12 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Bobcat",
+    "scientificName": "Lynx rufus",
+    "habitat": "Forests, deserts, swamps, and scrublands across North America",
+    "description": "A medium-sized wild cat with tufted ears, spotted fur, and a short bobbed tail, known for its stealth and adaptability."
   }
 ]
+  
